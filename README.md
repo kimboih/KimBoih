@@ -2,7 +2,7 @@
 - 👀 I’m interested in **
 - 🌱 I’m currently learning Web Design
 - 💞️ I’m looking to collaborate on **
-- 📫 You can reach me boihkim361@gmail.com...
+- 📫 You can reach me to boihkim361@gmail.com
 
 <!---
 KimBoih/KimBoih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
